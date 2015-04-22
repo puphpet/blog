@@ -1,0 +1,9 @@
+# The contents of this file are parsed and made available as
+# via `site.*`. So for example, {{ site.title }} can be used
+# in a template to get the contents of the `title` key.
+title: PuPHPet Blog
+subtitle: A blog about a simple GUI to set up virtual machines for Web development.
+
+# Insert your disqus shortname
+#disqus:
+#    shortname:
